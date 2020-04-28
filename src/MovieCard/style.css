@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+image{
+    border-radius: 10px;
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom{
+    color: black;
+    width: 100%;padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content-rating{
+    color: white;
+    border-radius: 10px;
+    background-color: red;padding: 7px 12px;
+
+}
+
+.movie-card {
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    width: 250px;
+    height: 380px;
+    background-color: #61dafb;
+    margin: 10px;
+}
+
+.movie-card:hover .details{
+    display: block;
+}
+
+.title {
+    color: black;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+.details {border-radius: 5px;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    display: none;
+    background-color: white;
+}

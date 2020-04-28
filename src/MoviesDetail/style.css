@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main-details{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+    padding: 20px 0px;
+}
+.details-overview{
+    font-size: 20px; color: cyan;
+    font-weight: lighter;font-style: italic;
+}
+.titles {
+    border: 0;
+    font-size: 100px;
+}
+
+.overlay {
+    background-color: black;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.details-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.details-poster {
+    border-radius: 15px;
+    width: 280px;
+    height: 400px;
+}
+
+.details-div {width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
