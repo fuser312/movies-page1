@@ -6,7 +6,7 @@
 }
 
 .main-details{
-    height: 100%;
+    height: 750px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,11 +18,12 @@
 .details-title {
     font-size: 30px;
     font-weight: bold;
-    color: aliceblue;
+    color: darkcyan;
     padding: 20px 0px;
 }
 .details-overview{
-    font-size: 20px; color: cyan;
+    font-size: 20px;
+    color: cyan;
     font-weight: lighter;font-style: italic;
 }
 .titles {
@@ -39,13 +40,16 @@
 }
 
 .details-text{
+    /*margin-top: 240px;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding: 20px;
+    font-size: 60px;
 }
 
 .details-poster {
+    /*margin-top: 360px;*/
     border-radius: 15px;
     width: 280px;
     height: 400px;
