@@ -14,6 +14,7 @@ function App() {
                 <Route path={"/details/:id"} component={MoviesDetail}/>
                 <Route exact path={"/search"} component={SearchPage}/>
                 <Route path={"/search/:query"} component={MoviesLayout}/>
+                <Route path={"/:page"} component={MoviesLayout}/>
                 <Route path={""} component={MoviesLayout}/>
             </Switch>
         </Router>

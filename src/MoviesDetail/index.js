@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css"
 
+
+
 class MoviesDetails extends React.Component {
     constructor(props) {
         super(props);
@@ -14,7 +16,7 @@ class MoviesDetails extends React.Component {
     }
 
     async getMovieData() {
-        console.log("started");
+        console.log("started")
         fetch('https://api.themoviedb.org/3/movie/' + this.props.match.params.id + '?api_key=18b9577e562289ee08b62627929f721b')
             .then(async (response) => {
                 let data = await response.json();

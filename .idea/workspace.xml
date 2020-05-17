@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c82e889-e222-499d-af03-249cb575a729" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoviesDetail/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoviesDetail/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MoviesDetail/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoviesDetail/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoviesLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoviesLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MoviesLayout/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoviesLayout/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -85,6 +90,10 @@
       <workItem from="1588095370081" duration="767000" />
       <workItem from="1588136519516" duration="32000" />
       <workItem from="1588175075570" duration="658000" />
+      <workItem from="1589132757091" duration="1525000" />
+      <workItem from="1589168024840" duration="20000" />
+      <workItem from="1589737421894" duration="1056000" />
+      <workItem from="1589738542573" duration="999000" />
     </task>
     <task id="LOCAL-00001" summary="Search completed">
       <created>1588095935409</created>
@@ -108,26 +117,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588095967932" />
-    <state x="638" y="307" key="Github.ShareDialog" timestamp="1588096022573">
+    <state x="638" y="307" key="Github.ShareDialog" timestamp="1589133708093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="638" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588096022573" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1588096149140">
+    <state x="638" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1589133708093" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1589739232194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588096149140" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1588096149140">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589739232194" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1589739232194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588096149140" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1588096149140">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589739232194" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1589739232194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588096149140" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1588096149140">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589739232194" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1589739232194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588096149140" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589739232194" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588095959264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
